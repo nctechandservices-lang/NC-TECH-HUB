@@ -1,0 +1,6 @@
+{
+  "name": "NC Tech Hub",
+  "description": "NC Tech Hub - Technology & Mobility Solutions Portal featuring multi-tier subscription plans (Basic, Premium, Enterprise), dual-factor secure authentication (OTP login), and full administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
